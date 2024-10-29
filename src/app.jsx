@@ -57,7 +57,7 @@ const skills = [
 ];
 
 
-const Header = () => {
+const Landing = () => {
   return (
     <div>
       <header className="bg-gray-800 text-white p-4">
@@ -365,4 +365,4 @@ const Header = () => {
 };
 
 
-export default Header;
+export default Landing;
